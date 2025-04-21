@@ -36,9 +36,12 @@ Sources
 
 
 ## 📦 Release History
-Version | Date | Description
+Version - 1.0  
 
-1.0 | 2025-04-21 | Initial release with core CRUD features
+Date - 2025-04-21
+
+Description - Initial release with core CRUD features
+
 
 # 🎨 Illustrations
 ![Screenshot 2025-04-21 160207](https://github.com/user-attachments/assets/6df8036b-8c67-4d65-b9ba-cc0a9d978d5e)
